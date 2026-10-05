@@ -6,8 +6,6 @@ Junior **Data Scientist** based in Madrid, with an MSc in Data Science and Artif
 
 I am most interested in **modelling**: understanding the data, cleaning it properly and building models that can be explained. I also work with generative AI: LLMs, RAG and agents.
 
-**Currently looking for Data Scientist or Data Analyst roles.**
-
 [Portfolio](https://dmoyitacast.github.io) · [LinkedIn](https://www.linkedin.com/in/david-moya07032001) · [Email](mailto:dmoyacastillo7@gmail.com)
 
 ### Academic projects — MSc in Data Science & AI (2025-26)

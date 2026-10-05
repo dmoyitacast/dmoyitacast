@@ -6,8 +6,6 @@
 
 Me interesa sobre todo la **modelización**: entender los datos, limpiarlos bien y construir modelos que se puedan explicar. También trabajo con IA generativa: LLMs, RAG y agentes.
 
-**Buscando puesto como Data Scientist o Data Analyst.**
-
 [Portfolio](https://dmoyitacast.github.io) · [LinkedIn](https://www.linkedin.com/in/david-moya07032001) · [Email](mailto:dmoyacastillo7@gmail.com)
 
 ### Proyectos académicos — Máster en Ciencia de Datos e IA (2025-26)
